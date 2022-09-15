@@ -8,8 +8,9 @@
 - 해당 프로세스가 CPU를 잡게 되면, Program Counter 인 Register가 프로세의 Code의 어느 한 부분을 가르키고, Code에서 Instruction, 즉 기계어를 하나씩 읽어 CPU 안으로 불러들이고 Register 안에 그 값을 넣습니다.
   산술 논리 연산장치에서 연산을 하나씩 수행하고 결과를 내부 Register나 밖의 Memory에 저장합니다.
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ddc6105c-099c-4c53-a61d-bd3988f4a61e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220915%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220915T023709Z&X-Amz-Expires=86400&X-Amz-Signature=c8e6051368595df54716a807ed6e064d0955e9cac2c1f994355d530432e1de8f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
+
+<br>
 
 
 
@@ -36,9 +37,11 @@
 
 
 
-<img src="/Users/jiheesmac/Desktop/무제.png" alt="무제" style="zoom: 67%;" />
+<img src="https://user-images.githubusercontent.com/92635121/190306215-63262366-7eeb-40a8-ac8b-e8e85d493317.png" alt="무제" style="zoom:67%;" />
 
 
+
+<br>
 
 
 
